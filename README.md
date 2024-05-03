@@ -16,6 +16,21 @@ Este é um programa em Java que simula operações básicas de uma conta bancár
 ### Loop Principal do Programa:
 - Loop principal do programa para apresentar o menu de opções e realizar operações até que o usuário decida sair do programa.
 
+## 📸 Captura de Tela
+## Menu Inicial
+![image](https://github.com/franciscgg/VirtualBankAccount/assets/113110382/15d11e6b-feca-4b42-81aa-660bd223b243)
+## Transferir
+![image](https://github.com/franciscgg/VirtualBankAccount/assets/113110382/5f26ae15-e7d1-4745-b818-773a2c03b295)
+## Receber
+![image](https://github.com/franciscgg/VirtualBankAccount/assets/113110382/f043bbe9-2069-4484-aa11-91d2fc37076d)
+## Consultar Saldo
+![image](https://github.com/franciscgg/VirtualBankAccount/assets/113110382/bd38a2be-c177-4a99-bc38-642b23c28896)
+
+
+
+
+
+
 ### 🚀 Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
